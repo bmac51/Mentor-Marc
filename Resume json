@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Brendan \"Bmac\" McCabe",
+    "label": "Junior Programmer",
+    "picture": "",
+    "email": "brendan.m.mccabe@gmail.com",
+    "phone": "949.887.2790",
+    "website": "https://bmac51.github.io/bmac.github.io/",
+    "summary": "My name is Brendan but I go by Bmac. I am a self started programmer with a business education from Concordia University Irvine. I have a positive attitude and great sense of humor that I use to tackle problems from unique angles. I appreciate the ability to code and look to get better everyday.",
+    "location": {
+      "address": "21301 Hillside Court",
+      "postalCode": "92630",
+      "city": "Lake Forest",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "BeastlyBmac",
+        "url": "https://twitter.com/BeastlyBmac"
+      },
+      {
+        "network": "Github",
+        "username": "bmac51",
+        "url": "https://github.com/bmac51"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Brendan McCabe",
+        "url": "https://www.linkedin.com/in/brendan-mccabe-25b182b4/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Newport Academy",
+      "position": "Care Coordinator",
+      "website": "https://www.newportacademy.com",
+      "startDate": "Oct 2017",
+      "endDate": "Present",
+      "summary": "Newport Academy is teen rehab center aimed at treating the underlying causes of high-risk behavior and restoring families. As a Care Coordinator, I support clients to get the most out of their treatment. This looks like constant encouragement, creating authentic connections, and being an active listener. While being a Care Coordinator, I have honed the ability to think on my feet and handle high stress situations.",
+      "highlights": [
+        "Built a scheduling app for Care Coordinating staff"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Crossline Community Church",
+      "position": "Youth Group Leader",
+      "website": "",
+      "startDate": "Sep 2017",
+      "endDate": "Present",
+      "summary": "Guiding the youth of Orange County through mentorship and meaningful relationships",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Concordia University Irvine",
+      "area": "Business Administration: Marketing Emphasis",
+      "studyType": "Bachelor",
+      "startDate": "Aug 2013",
+      "endDate": "May 2017",
+      "gpa": "3.3",
+      "courses": [
+        "CS105 - Visual Basic",
+        "FCC - HTML",
+        "FCC - CSS",
+        "FCC - JavaScript"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Y Coding",
+      "publisher": "",
+      "releaseDate": "March 2018",
+      "website": "",
+      "summary": "A podcast by some guys in their 20's who like to code that addresses coding topics for young coders"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Microsoft Suite Apps",
+      "level": "Intermediate",
+      "keywords": [
+        "Visual Studio Forms"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Video Games",
+      "keywords": [
+        "Trading Card Games",
+        "Role Playing Games"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Marc Lundgren",
+      "reference": "It is my pleasure to recommend Bmac, his work ethic and positive will be a valuable addition to any company."
+    }
+  ]
+}
